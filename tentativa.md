@@ -86,5 +86,3 @@ Se os passos anteriores não resolverem:
 ## **Dicas Finais**
 - Se nenhuma das etapas acima funcionar, considere usar ferramentas especializadas de terceiros, como **Recuva**, **EaseUS Data Recovery**, ou **Disk Drill**.
 - Evite gravar novos dados no HD para não sobrescrever os arquivos que ainda podem ser recuperados.
-
-Caso precise de mais detalhes sobre algum comando ou ferramenta, é só avisar!
